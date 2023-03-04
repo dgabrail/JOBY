@@ -1,0 +1,9 @@
+@media screen and (max-width: 680px) {
+  .section-1 h1 {
+    font-size: 40px;
+  }
+
+  .section-2 h2 {
+    font-size: 40px;
+  }
+}
